@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\HP\source\repos\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\HP\source\repos\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\HP\source\repos\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\HP\source\repos\EvenOrOdd\obj\Debug\EvenOrOdd.pdb
